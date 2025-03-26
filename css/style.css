@@ -8,7 +8,7 @@
     color: red;
 }
 
-.fundoAzul{
+.fundoAzul:hover{
     background-color: rgb(215, 235, 231);
     transition: 1.5;
 }
