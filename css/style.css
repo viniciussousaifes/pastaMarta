@@ -1,0 +1,19 @@
+.minhaDiv{
+    text-align: center;
+    border: 0.1px solid rgb(68, 64, 64);
+}
+
+#centroCor{
+    text-align: center;
+    color: red;
+}
+
+.fundoAzul{
+    background-color: rgb(215, 235, 231);
+    transition: 1.5;
+}
+
+.fundoCinza{
+    background-color: rgb(219, 217, 217);
+}
+
