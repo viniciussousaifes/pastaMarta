@@ -17,3 +17,6 @@
     background-color: rgb(219, 217, 217);
 }
 
+ol{
+    list-style-type: upper-alpha; 
+}
